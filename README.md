@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for friend who passionate **with cybersecurity & web development**
 
-- 💬 Ask me about **react, nextjs, java, Nodejs and sql server**
+- 💬 I'm currently learning nextjs, nestjs and Solidity for web3 project
 
 - ⚡ Fun fact **I like solve chess puzzle alot :D**
 
