@@ -34,7 +34,7 @@
   <li>🔭 Working on backend-heavy projects (NestJS + microservices)</li>
   <li>🌱 Exploring Go and system design in depth</li>
   <li>📚 Reading: “Designing Data-Intensive Applications” (again)</li>
-  <li>☕ Coffee → Code → Debug → Repeat</li>
+  <li>productive</li>
 </ul>
 
 <div style="height: 200px"><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmNia3Y3M3VnNGljb2xuYXk5cnV6ejV0ZjQxMG9iZTlicDBxZXdjNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.webp"/>
