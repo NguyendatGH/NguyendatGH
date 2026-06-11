@@ -23,7 +23,7 @@
 
 <div>
   <img 
-    src="https://skillicons.dev/icons?i=java,spring,js,ts,nodejs,nestjs,express,nextjs,react,tailwind,postgres,mongodb,redis,docker,git,linux,aws,kafka,c,tensorflow,html,css,sass,postman,figma&perline=25" 
+    src="https://skillicons.dev/icons?i=java,spring,js,ts,nodejs,nestjs,express,nextjs,react,docker&perline=25" 
     alt="Tech Stack" 
   />
 </div>
