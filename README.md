@@ -2,11 +2,11 @@
 </div>
 
 <h3 align="">A developer from Danang-VietNam</h3>
+<p>My live portfolio: <a href="https://rio-portfolio-74sw.vercel.app/" target="_blank" >Click here</a></p>
 
 <blockquote align="">
 <p>“Difficult roads always lead to beautiful destinations.”</p>
 </blockquote>
-<p>Click <a href="https://rio-portfolio-74sw.vercel.app/">here</a> to view my live portfolio</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nguyendatgh&label=Profile%20views&color=0e75b6&style=flat" alt="nguyendatgh" /> </p>
 
