@@ -2,7 +2,12 @@
 </div>
 
 <h3 align="">A developer from Danang-VietNam</h3>
-<p>My live portfolio: <a href="https://rio-portfolio-74sw.vercel.app/" target="_blank" >Click here</a></p>
+<p>
+  My live portfolio:
+  <a href="https://rio-portfolio-74sw.vercel.app/" target="_blank" rel="noopener noreferrer">
+    Click here
+  </a>
+</p>
 
 <blockquote align="">
 <p>“Difficult roads always lead to beautiful destinations.”</p>
@@ -14,9 +19,9 @@
 
 - 🌱 I’m currently learning FrontEnd & Backend language **, also try to apply AI in my side project**
 
-- 🤝 I’m looking for friend who passionate **with cybersecurity & web development**
+- 🤝 I’m looking for friend who passionate **with cybersecurity & fullstack development**
 
-- 💬 I'm currently learning nextjs, nestjs and Solidity for web3 project
+- 💬 I'm currently learning Go, microservice architecture and Solidity for web3 project
 
 - ⚡ Fun fact **I like solve chess puzzle alot :D**
 
