@@ -1,76 +1,236 @@
-<div>  <h1>Hi, I'm Rio 👋</h1>
+<div align="center">
+
+# `rio@github:~$ whoami`
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=Software+Engineer;Backend+%26+Fullstack+Developer;TypeScript+%7C+Node.js+%7C+NestJS;Building+modular+and+scalable+systems;Exploring+Go+%7C+System+Design+%7C+AI" alt="Typing SVG" />
+
+<br/>
+
+<a href="https://rio-portfolio-74sw.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://leetcode.com/datnt_24/">
+<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
+</a>
+
+<a href="https://codeforces.com/profile/datnt_24">
+<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=NguyendatGH&style=flat-square&color=58A6FF&label=PROFILE+VIEWS" />
+
 </div>
 
-<h3 align="">A developer from Danang-VietNam</h3>
+---
+
+## `~/about`
+
+```text
+Name       : Rio
+Role       : Software Engineer
+Location   : Vietnam 🇻🇳
+Focus      : Backend / Fullstack / System Design
+
+Currently building:
+→ Modular backend systems
+→ Fullstack applications
+→ Data & AI-powered products
+
+Currently exploring:
+→ Go
+→ System Design
+→ Distributed Systems
+→ Microservice Architecture
+→ AI / LLM applications
+```
+
+> I like understanding how systems work underneath the abstraction — then building them.
+
+---
+
+## `~/stack`
+
+### ⚡ Primary
+
 <p>
-  My live portfolio:
-  <a href="https://rio-portfolio-74sw.vercel.app/" target="_blank" rel="noopener noreferrer">
-    Click here
-  </a>
+<img src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,express,react,vite,postgres,redis,docker,git,github" />
 </p>
 
-<blockquote align="">
-<p>“Difficult roads always lead to beautiful destinations.”</p>
-</blockquote>
+`TypeScript` · `JavaScript` · `Node.js` · `NestJS` · `Express`
+`React` · `Vite` · `PostgreSQL` · `Redis` · `Docker`
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nguyendatgh&label=Profile%20views&color=0e75b6&style=flat" alt="nguyendatgh" /> </p>
+### 🧩 Familiar
 
-- 🔭 I’m currently studying & working **in DaNang**
-
-- 🌱 I’m currently learning FrontEnd & Backend language **, also try to apply AI in my side project**
-
-- 🤝 I’m looking for friend who passionate **with cybersecurity & fullstack development**
-
-- 💬 I'm currently learning Go, microservice architecture and Solidity for web3 project
-
-- ⚡ Fun fact **I like solve chess puzzle alot :D**
-
-<h2 align="">Tech I work with daily</h2>
-
-<div>
-  <img 
-    src="https://skillicons.dev/icons?i=java,spring,js,ts,nodejs,nestjs,express,nextjs,react,docker&perline=25" 
-    alt="Tech Stack" 
-  />
-</div>
-
-<h2 align="">Currently</h2>
-
-<ul align="" style="list-style: none; padding: 0;">
-  <li>🔭 Working on backend-heavy projects (NestJS + microservices)</li>
-  <li>🌱 Exploring Go and system design in depth</li>
-  <li>📚 Reading: “Designing Data-Intensive Applications” (again)</li>
-  <li>productive</li>
-</ul>
-
-<div style="height: 200px"><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmNia3Y3M3VnNGljb2xuYXk5cnV6ejV0ZjQxMG9iZTlicDBxZXdjNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.webp"/>
-</div>
-
-<h2 align="">Let's connect</h2>
-
-<div align="" style="display: flex; gap: 8px; flex-wrap: wrap;">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  
-  <a href="mailto:your.email@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  
-  <a href="https://t.me/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-  
-  <a href="https://leetcode.com/datnt_24/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=flat&logo=LeetCode&logoColor=FFA116" alt="LeetCode" />
-  </a>
-  
-  <a href="https://codeforces.com/profile/datnt_24" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=Codeforces&logoColor=white" alt="Codeforces" />
-  </a>
-</div>
-<br>
-
-<p align="center">
-  Thanks for stopping by ✦ Feel free to explore my repositories or just say hi.
+<p>
+<img src="https://skillicons.dev/icons?i=java,spring,nextjs,mongodb,mysql,nginx,kafka,python" />
 </p>
+
+`Java` · `Spring` · `Next.js` · `MongoDB` · `MySQL`
+`SQL Server` · `Nginx` · `Kafka` · `Python`
+
+### 🔭 Exploring
+
+<p>
+<img src="https://skillicons.dev/icons?i=go,kubernetes" />
+</p>
+
+`Go` · `System Design` · `Distributed Systems` · `Microservices`
+
+---
+
+## `~/engineering`
+
+```text
+01  Build modular first
+    └─ Keep boundaries clear and responsibilities isolated.
+
+02  Scale when necessary
+    └─ Don't introduce distributed complexity without a reason.
+
+03  Understand the trade-offs
+    └─ Performance, consistency, availability and maintainability.
+
+04  Keep learning
+    └─ From application code → architecture → infrastructure.
+```
+
+My current approach is to build **well-structured modular systems** while learning how those boundaries can evolve into distributed services when scale and domain complexity actually require it.
+
+---
+
+## `~/projects`
+
+### 🛍️ VietCraft
+
+**AI Product Analytics & Market Intelligence**
+
+A data-driven platform helping POD sellers discover market opportunities through demand signals, product data and AI-assisted analysis.
+
+`React` · `TypeScript` · `Node.js` · `PostgreSQL` · `Google Trends` · `LLM`
+
+---
+
+### 🎓 MIRAI — LMS System
+
+**Learning Management System**
+
+A fullstack learning platform designed around course management, learning workflows and user interactions.
+
+`React` · `TypeScript` · `Node.js` · `NestJS` · `PostgreSQL` · `Redis`
+
+---
+
+### 🎟️ EventsTicket Hub
+
+**Event Ticket Management Platform**
+
+A web-based ticketing system for managing events, bookings and ticket-related workflows.
+
+`Java` · `Servlet` · `JSP` · `SQL Server` · `Maven` · `Tomcat`
+
+---
+
+### ⚙️ Backend Engineering
+
+Projects and experiments around:
+
+`NestJS` · `REST API` · `Kafka` · `Redis` · `PostgreSQL` · `MongoDB` · `Docker`
+
+with an emphasis on **clean architecture, modularity and scalable backend design**.
+
+---
+
+## `~/currently`
+
+```text
+┌─ learning
+│
+├── Go
+├── System Design
+├── Distributed Systems
+├── Microservice Architecture
+└── Backend Performance
+```
+
+```text
+┌─ experimenting
+│
+├── LLM applications
+├── AI product analytics
+├── Speech AI
+└── Local AI inference
+```
+
+```text
+┌─ reading
+│
+└── Designing Data-Intensive Applications
+```
+
+---
+
+## `~/github`
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=NguyendatGH&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyendatGH&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=NguyendatGH&theme=github-dark-blue&hide_border=true" />
+
+</div>
+
+---
+
+## `~/activity`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NguyendatGH&theme=github-compact&hide_border=true&area=true" />
+
+</div>
+
+---
+
+## `~/terminal`
+
+```text
+rio@github:~$ git status
+
+On branch main
+
+Everything is under control.
+
+rio@github:~$ ./build.sh
+
+[████████████████████] 100%
+
+✓ code
+✓ learn
+✓ build
+✓ repeat
+```
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1500&color=8B949E&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile.;Feel+free+to+explore+my+repositories.;Let's+build+something+together." alt="Typing SVG" />
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:007700,100:58A6FF&height=110&section=footer&animation=twinkling" />
+
+</div>
