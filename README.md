@@ -1,190 +1,119 @@
 <div align="center">
 
-rio@github:~$ whoami
+rio@github:~$
 
-<img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=Software+Engineer;Backend+%26+Fullstack+Developer;TypeScript+%7C+Node.js+%7C+NestJS;Building+modular+and+scalable+systems;Exploring+Go+%7C+System+Design+%7C+AI"
-alt="Typing SVG"
-/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Backend+%26+Fullstack+Developer;TypeScript+%7C+Node.js+%7C+NestJS;Building+modular+and+scalable+systems;Exploring+Go+%7C+System+Design+%7C+AI" alt="Typing SVG" />
 
-<br />
+<br/>
 
 <a href="https://rio-portfolio-74sw.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
-
 <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
 <a href="https://leetcode.com/datnt_24/">
-  <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white" />
+<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white" />
 </a>
-
 <a href="https://codeforces.com/profile/datnt_24">
-  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
 </a>
 
-<br />
-<br />
+<br/><br/>
 
-<img
-src="https://komarev.com/ghpvc/?username=NguyendatGH&style=flat-square&color=58A6FF&label=PROFILE+VIEWS"
-alt="Profile views"
-/>
+<img src="https://komarev.com/ghpvc/?username=NguyendatGH&style=flat-square&color=58A6FF&label=PROFILE+VIEWS" />
 
 </div>
 
 ~/about
 
-Name       : Rio
-Role       : Software Engineer
-Location   : Vietnam 🇻🇳
-Focus      : Backend / Fullstack / System Design
+Backend-focused developer who enjoys building clean, modular systems and fullstack products.
 
-Currently building:
-→ Modular backend systems
-→ Fullstack applications
-→ Data & AI-powered products
+📍 Vietnam
 
-Currently exploring:
-→ Go
-→ System Design
-→ Distributed Systems
-→ Microservice Architecture
-→ AI / LLM applications
+🧠 Interested in backend architecture & system design
 
-I like understanding how systems work underneath the abstraction — then building them.
+⚡ Building with TypeScript / Node.js / NestJS
+
+🔭 Exploring Go, distributed systems & AI applications
+
+♟️ Competitive programming & chess puzzles
 
 ~/stack
 
-⚡ Primary
-
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,express,react,vite,postgres,redis,docker,git,github" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,express,react,nextjs,java,spring,go,postgres,mongodb,redis,kafka,docker,nginx,git,github" />
 </p>
 
-TypeScript · JavaScript · Node.js · NestJS · Express
-React · Vite · PostgreSQL · Redis · Docker
+Primary: TypeScript · Node.js · NestJS · Express · React · PostgreSQL · Redis · Docker
 
-🧩 Familiar
+Familiar: Java · Spring · Next.js · MongoDB · MySQL · SQL Server · Kafka · Nginx · Python
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,spring,nextjs,mongodb,mysql,nginx,kafka,python" />
-</p>
-
-Java · Spring · Next.js · MongoDB · MySQL
-SQL Server · Nginx · Kafka · Python
-
-🔭 Exploring
-
-<p>
-  <img src="https://skillicons.dev/icons?i=go,kubernetes" />
-</p>
-
-Go · System Design · Distributed Systems · Microservices
-
-~/engineering
-
-01  Build modular first
-    └─ Keep boundaries clear and responsibilities isolated.
-
-02  Scale when necessary
-    └─ Don't introduce distributed complexity without a reason.
-
-03  Understand the trade-offs
-    └─ Performance, consistency, availability and maintainability.
-
-04  Keep learning
-    └─ From application code → architecture → infrastructure.
-
-My current approach is to build well-structured modular systems while learning how those boundaries can evolve into distributed services when scale and domain complexity actually require it.
+Exploring: Go · System Design · Distributed Systems · Microservices
 
 ~/projects
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 🛍️ VietCraft
 
-AI Product Analytics & Market Intelligence
+AI Product Analytics
 
-A data-driven platform helping POD sellers discover market opportunities through demand signals, product data and AI-assisted analysis.
+Market intelligence platform for POD sellers using demand signals, product data and AI-assisted analysis.
 
-React · TypeScript · Node.js · PostgreSQL · Google Trends · LLM
+React TypeScript Node.js PostgreSQL LLM
 
-🎓 MIRAI — LMS System
+</td>
+<td width="50%" valign="top">
 
-Learning Management System
+🎓 MIRAI
 
-A fullstack learning platform designed around course management, learning workflows and user interactions.
+LMS System
 
-React · TypeScript · Node.js · NestJS · PostgreSQL · Redis
+Fullstack learning platform focused on course management and learning workflows.
+
+React TypeScript NestJS PostgreSQL Redis
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 🎟️ EventsTicket Hub
 
-Event Ticket Management Platform
+Event Ticket Platform
 
-A web-based ticketing system for managing events, bookings and ticket-related workflows.
+Web application for event management, booking and ticket workflows.
 
-Java · Servlet · JSP · SQL Server · Maven · Tomcat
+Java Servlet JSP SQL Server
 
-⚙️ Backend Engineering
+</td>
+<td width="50%" valign="top">
 
-Projects and experiments around:
+⚙️ Backend Experiments
 
-NestJS · REST API · Kafka · Redis · PostgreSQL · MongoDB · Docker
+Exploring APIs, messaging, caching and backend architecture through side projects.
 
-with an emphasis on clean architecture, modularity and scalable backend design.
+NestJS Kafka Redis Docker REST API
 
-~/currently
+</td>
+</tr>
+</table>
 
-┌─ learning
-│
-├── Go
-├── System Design
-├── Distributed Systems
-├── Microservice Architecture
-└── Backend Performance
+~/now
 
-┌─ experimenting
-│
-├── LLM applications
-├── AI product analytics
-├── Speech AI
-└── Local AI inference
-
-┌─ reading
-│
-└── Designing Data-Intensive Applications
-
-~/terminal
-
-rio@github:~$ git status
-
-On branch main
-
-Everything is under control.
-
-rio@github:~$ ./build.sh
-
-[████████████████████] 100%
-
-✓ code
-✓ learn
-✓ build
-✓ repeat
+learning      → Go · System Design · Distributed Systems
+building      → Modular Backend · Fullstack · AI Products
+exploring     → Microservices · LLM Applications
 
 <div align="center">
 
-<img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1500&color=8B949E&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile.;Feel+free+to+explore+my+repositories.;Let's+build+something+together."
-alt="Typing SVG"
-/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=1200&color=8B949E&center=true&vCenter=true&width=520&lines=code+%E2%86%92+learn+%E2%86%92+build+%E2%86%92+repeat" alt="Footer typing animation" />
 
-<br />
-<br />
+<br/><br/>
 
-<img
-src="https://capsule-render.vercel.app/api?type=waving&color=0:007700,100:58A6FF&height=110&section=footer&animation=twinkling"
-alt="Footer"
-/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:007700,100:58A6FF&height=90&section=footer&animation=twinkling" alt="Footer" />
 
 </div>
